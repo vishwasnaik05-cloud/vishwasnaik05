@@ -6,7 +6,7 @@ Business Operations Analyst/Senior Order Management Specialist with over 4.5 yea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishwas-naik-405a1812b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwas.naik05@gmail.com) 
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) VBA. SAP Hana S4. ServiceNow. Salesforce
+Advanced Excel, VBA, SAP Hana S4, ServiceNow, Salesforce, PowerBI, MySQL for Data Analysis
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishwasnaik05-cloud&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vishwasnaik05-cloud&theme=dark&hide_border=false)<br/>
